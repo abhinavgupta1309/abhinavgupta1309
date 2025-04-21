@@ -18,9 +18,9 @@
 
 ```js
 const abhinav = {
-  fullName: "Abhinav [Your Last Name]",
+  fullName: "Abhinav Gupta",
   education: "Final Year B.Tech Student",
-  focus: ["MERN Stack", "Cryptography", "Bit Manipulation"],
+  focus: ["MERN Stack", "Data Structures", "Cryptography"],
   dream: "To travel the world via code and cargo 🚢💻",
   lookingFor: "Software Dev / Full Stack Dev roles 👨‍💻",
   availableForWork: true
